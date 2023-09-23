@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d487e1-192b-4aa7-af34-7b702ac6970f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/compane/view/UIExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/WorkerDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/WorkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/WorkerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/WorkerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/view/HandlerUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/view/HandlerUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/view/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/view/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/compane/view/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compane/view/UI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VOLbwdmCfIlbSX80HuyyYi2utH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dz5oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d487e1-192b-4aa7-af34-7b702ac6970f" name="Changes" comment="" />
+      <created>1694702257169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694702257169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
