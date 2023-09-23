@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d487e1-192b-4aa7-af34-7b702ac6970f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/compane/view/UIExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/packet/Class4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/WorkerDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/WorkerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/model/WorkerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/model/WorkerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/view/HandlerUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/view/HandlerUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/compane/view/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/compane/view/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/compane/view/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/compane/view/UI.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

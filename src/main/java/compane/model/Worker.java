@@ -1,7 +1,9 @@
 package compane.model;
 
 
-
+/**
+ * Класс шаблон\модель
+ */
  public class Worker {
     private String name;
     private String position;

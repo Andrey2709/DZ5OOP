@@ -1,9 +1,10 @@
 package compane.model;
 
+/**
+ * Для реализации управления системой необходимы все методы представленные в данном интерфейсе
+ */
 public interface WorkerHandler {
     void changeStatus(String name, StatusWorker statusWorker);
-
-    void call(String name);
 
     void changeSalary(String name, int salary);
 

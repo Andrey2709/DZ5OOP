@@ -3,7 +3,7 @@ package compane.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class WorkerDB implements WorkerHandler {
+public class WorkerList implements WorkerHandler {
 
     private static List<Worker> workers = new ArrayList<>(List.of(
             new Worker("Ivan", "Director", 7_921_234_1541l, 70000, StatusWorker.APPROVED),
